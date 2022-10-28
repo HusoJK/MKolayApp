@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MKolay</string>
+
+    <string name="mkolay">MKOLAY</string>
+    <string name="canteen">kantin</string>
+    <string name="mkolay_canteen_phone">Mkolay Kantin ile ürünlerinizi kolayca okutun, telefonunuzdan ödeyin</string>
+    <string name="mkolay_store">Mkolay Mağaza ile ürünlerinizi kolayca okutun, JetKasa ile ödeyin</string>
+    <string name="welcome">Hoş Geldiniz.</string>
+    <string name="qr_text">Mkolay Kantin\'e giriş yapabilmek için QR kodu turnikeye okutman gerekiyor.</string>
+    <string name="shopping_history">Alışveriş \n Geçmişim</string>
+    <string name="add_new_card">Yeni Kart \n Ekle</string>
+    <string name="shopping_has_reached">Alışverişin bize ulaştı</string>
+    <string name="invoice_create">Faturan oluştuğunda Alışveriş geçmişim kısmından görüntüleyebilirsin</string>
+    <string name="to_mainmenu">Anasayfaya Dön</string>
+    <string name="amount_paid">Ödenen Tutar</string>
+    <string name="currency">TL</string>
+    <string name="basket_summary">Sepet Özeti</string>
+    <string name="basket_total">Sepet Tutarı</string>
+    <string name="amount">İndirim</string>
+    <string name="total_money">Toplam Tutar</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="enjoy_shopping">İyi Alışverişler Dileriz</string>
+    <string name="mainmenu">ANASAYFA</string>
+    <string name="migroscope">MİGROSKOP</string>
+    <string name="migros_tv">ANASAYFA</string>
+    <string name="profile">PROFİL</string>
+    <string name="shopping_hist">ALIŞVERİŞ GEÇMİŞİM</string>
+
+
+</resources>

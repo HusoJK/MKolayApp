@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/mainmenu" />
+    <item
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="@string/migroscope" />
+    <item
+        android:checked="true"
+        android:icon="@mipmap/ic_mkolay_logo_foreground"
+        android:title="@string/mkolay" />
+    <item
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_tv_24"
+        android:title="@string/migros_tv" />
+    <item
+        android:checked="false"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile" />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972998949373",
+    "firebase_url": "https://huso-deneme-default-rtdb.firebaseio.com",
+    "project_id": "huso-deneme",
+    "storage_bucket": "huso-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972998949373:android:5c4a5f7cb2e8ab2cd20194",
+        "android_client_info": {
+          "package_name": "com.example.mkolay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972998949373-n8rma1nems23v00444ieb02nprgescp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_CbalRazXEYWbcrl_3pXto0iAh9IsDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972998949373-n8rma1nems23v00444ieb02nprgescp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
